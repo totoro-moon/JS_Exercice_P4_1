@@ -1,0 +1,23 @@
+button{
+  padding: 10px 20px;
+  font-size: 35px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 3px #999;
+  background-color: cornflowerblue;
+}
+button:hover {
+  background-color: rgb(5, 31, 80);
+}
+p{
+  background-color: rgb(97, 178, 245);
+  padding: 10px;
+}
+p{
+  background-color: rgb(97, 178, 245);
+  padding: 10px;
+}
